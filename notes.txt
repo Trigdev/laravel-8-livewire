@@ -1,0 +1,7 @@
+Livewire Components
+cmd|> php artisan make:livewire LivewireComponentName 
+cmd|> php artisan make:livewire Post  
+
+Inline Livewire Components 
+cmd|> php artisan make:livewire LivewireComponentName --inline 
+cmd|> php artisan make:livewire User --inline
